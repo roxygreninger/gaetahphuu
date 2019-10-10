@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://choogethae.jeffriesperformance.com/sitemap.xml
